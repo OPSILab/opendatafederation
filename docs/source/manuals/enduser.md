@@ -1,6 +1,6 @@
 # End User Manual
 
-This section provides the description of the End User Functionalities. Through the Open Data Catalogue an user can:
+This section provides the description of the End User Functionalities. Through the Open Data Catalogue a user can:
 -	Search datasets filtering by their metadata;
 -	Create graphical representation of dataset resources called *Datalet*;
 -	Execute SPARQL queries on RDF resources;
