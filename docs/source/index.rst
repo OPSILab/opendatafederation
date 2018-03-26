@@ -24,12 +24,3 @@ Content
    manuals/administration
    manuals/enduser.md
 
-Support / Contact / Contribution
-================================
-
-giuseppe.ciulla@eng.it
-
-Copying and License
-===================
-This code is licensed under XXX licence
-
