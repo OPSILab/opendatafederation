@@ -1,3 +1,5 @@
+# Platform Management
+
 This section provides the description of the Administration Functionalities. Through the Open Data Catalogue a logged administrator can:
 -	Manage ODMS Catalogues;
 -	Manage configuration parameters;
