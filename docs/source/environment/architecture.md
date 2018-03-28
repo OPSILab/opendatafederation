@@ -7,7 +7,7 @@ The following picture illustrates the architecture of the Open Data Federation.
 
 ![alt tag](odfarchitecture.png "ODF Architecture")
 
-It's main components are:
+Its main components are:
 
 - **Federation Manager**: is the core of the platform that interacts with federated ODMS catalogues; it is responsible for managing internal federation processes. It provides the main functionalities
 through Platform API in order to be accessed by external application or by the Federated Open Data Catalogue. Main functionalities provided by the FM are:
